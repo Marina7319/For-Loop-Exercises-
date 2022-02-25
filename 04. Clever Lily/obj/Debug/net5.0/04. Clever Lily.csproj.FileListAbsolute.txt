@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.exe
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.deps.json
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\ref\04. Clever Lily.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\ref\04. Clever Lily.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.genruntimeconfig.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.AssemblyReference.cache

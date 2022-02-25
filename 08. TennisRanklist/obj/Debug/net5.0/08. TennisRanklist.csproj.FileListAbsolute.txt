@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.exe
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.deps.json
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\ref\08. TennisRanklist.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\ref\08. TennisRanklist.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.genruntimeconfig.cache

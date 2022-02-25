@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.exe
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.deps.json
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\ref\06. Oscars.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\ref\06. Oscars.dll
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.pdb
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.genruntimeconfig.cache
+C:\Users\Marina\source\repos\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.AssemblyReference.cache
